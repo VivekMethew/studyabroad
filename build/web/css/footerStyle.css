@@ -1,0 +1,87 @@
+/****************************************************-----------------Footer-----------------------*********************************/
+
+footer{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background: #2c3e50;
+}
+footer .container-fluid{
+	padding-top: 30px;
+	border: none;
+}
+footer .container-fluid #link-box{
+	padding: 0px 50px;
+}
+footer .container-fluid .row .col-sm-2{
+	border: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+footer .container-fluid .row .col-sm-2 h1{
+	font-size: 18px;
+	color: #878787;
+	text-transform: uppercase;
+}
+footer .container-fluid .row .col-sm-2  ul{
+	padding: 0;
+}
+footer .container-fluid .row .col-sm-2  ul li{
+	list-style:  none;
+	line-height: 1.6;
+}
+footer .container-fluid .row .col-sm-2  ul li a{
+	color: #FFFFFF;
+	font-size: 15px;
+}
+footer .container-fluid .row .border-left{
+		border-left: 1px solid #7777;
+}
+footer .container-fluid .row #mail-box{
+	padding-left: 10px;
+}
+footer .container-fluid .row #mail-box h1{
+	font-size:  14px;
+	text-transform: lowercase;
+}
+footer .container-fluid .row #mail-box p{
+	color: #fff;
+	font-size: 14px;
+}
+footer .container-fluid .row #mail-box p a{
+	text-decoration: none;
+}
+footer .container-fluid #link-btn{
+	padding: 0px 70px;
+	padding-bottom: 15px;
+}
+footer .container-fluid .row .col-sm-6 .btn{
+	color: #fff;
+}
+footer .container-fluid .row .col-sm-6 .btn .fa-sun{
+	color: red;
+	padding-right: 5px;
+	font-size: 18px;
+} 
+footer .container-fluid .row .col-sm-3 span{
+	color : #fff;
+	line-height: 2;
+}
+footer .container-fluid .row .col-sm-3 .btn{
+	color : #fff;
+}
+
+footer .webname{
+    margin-top: 5px;
+     border-top: 1px solid #7777;
+    text-align: center;
+    height: 50px;
+     padding-top: 15px;
+}
+footer .webname a{
+     text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-style: italic;
+}

@@ -1,0 +1,26 @@
+.container-fluid{
+    background: url(../image/loginbg.jpeg) no-repeat;
+    height: 100vh;
+    padding-top: 120px;
+    background-size: cover;
+    background-position: center;
+}
+.col-md-5{
+    padding: 25px;
+}
+.login-box{
+ background: #fff;
+ padding: 15px;
+ box-shadow: 0px 1px 3px 0px bisque;
+}
+.login-box form{
+    padding: 30px;
+}
+.login-box form button{
+    width: 250px;
+}
+h3{
+    color: #696969;
+    text-transform: uppercase;
+    text-align: center;
+}

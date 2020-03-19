@@ -1,0 +1,92 @@
+.contry-sect{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    background: #f1f2f6;
+}
+.contry-sect .container .row .col-lg-4{
+    margin-bottom:  20px;
+}
+.contry-sect .container .row .col-lg-4 .cont{
+    border: 1px solid #333;
+   border-radius: 30px 0px 30px 0px;
+   text-align: center;
+   cursor: pointer;
+   transition: .5s ease-in;
+}
+.contry-sect .container .row .col-lg-4 .cont:hover{
+    margin-top: -10px;
+}
+.contry-sect .container .row .col-lg-4 .cont .btn{
+    width: 200px;
+    margin-top: 5px;
+}
+
+
+
+
+/***********************************************************------------------------------
+-----------------------------*************************************************/
+
+.cont-form{
+    padding: 20px;
+    background: linear-gradient(-90deg, #00A214, #7777);
+}
+.cont-form .container .row .col-sm-12{
+    text-align: center;
+    color: #0a5275;
+}
+.cont-form .container .row .col-sm-6{
+    padding: 20px;
+}
+.cont-form .container .row .col-sm-6 form{
+    padding: 25px;
+    width: 100%;
+    height: 400px;
+    border: 1px solid #0a5275;
+    border-radius: 10px;
+}
+.cont-form .container .row .col-sm-6 form h3{
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 32px;
+    color: #0a5275;
+}
+.cont-form .container .row .col-sm-6 form label{
+  font-size: 16px;
+  color: #0a5275;
+}
+.cont-form .container .row .col-sm-6 form input[type="text"], input[type="email"]{
+    width: 100%;
+    background: transparent;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: #7777;
+    padding-left: 10px;
+    display: block;
+    border-bottom: 1px solid #0a5275;
+}
+.cont-form .container .row .col-sm-6 form div{
+    text-align: center;
+    padding-top: 50px;
+}
+.cont-form .container .row .col-sm-6 form div input[type="submit"]{
+    background: Red;
+    border: none;
+    width: 180px;
+    height: 30px;
+    padding: 3px 6px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    border-radius: 25px;
+    background: linear-gradient(-90deg, #0a5275, #7777);
+}
+.cont-form .container .row .col-sm-6 h4{
+    font-size: 65px;
+    font-family: cursive;
+    text-align: center;
+    padding-top: 100px;
+    color: #0a5275;
+    transform: rotate(20deg);
+}
